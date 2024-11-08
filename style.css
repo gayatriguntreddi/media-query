@@ -1,21 +1,13 @@
-@media (min-width: 480px)and (max-width: 520px) { 
-    .MQ{
-        font-size: 3rem;
-    }
-    
-    .MQS
-    {
-        padding: 20px 0;
-    }
-    
+@media (min-width: 40%) and (max-width: 100%){ 
+  
     .MQS1
-        {
-         
-            font-size: 2rem;
-            padding: 20px;
-            width: 40%;
-        }
+    {
+        font-size: 2rem;
+       
+        padding: 20px;
+
     }
+}
 .MQ{
     display: block;
     background-color: #ffb3d9;
@@ -29,14 +21,13 @@
     display: flex;
     justify-content: space-around;
  padding: 20px 0;
-    .MQS1
+    
+}
+.MQS1
     {
         font-size: 2rem;
         background-color: #ffcce6;
         padding: 20px;
-        width: 40%;
         text-align: center;
         margin: 1px;
     }
-}
-
