@@ -1,0 +1,27 @@
+@media screen and (min-width: 120px) { 
+
+.MQ{
+    display: block;
+    background-color: #ffb3d9;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2px;
+}
+
+.MQS
+{
+    display: flex;
+    justify-content: space-around;
+ padding: 20px 0;
+    .MQS1
+    {
+        font-size: 2rem;
+        background-color: #ffcce6;
+        padding: 20px;
+        width: 40%;
+        text-align: center;
+        margin: 1px;
+    }
+}
+
+}
