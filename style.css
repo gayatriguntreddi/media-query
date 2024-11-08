@@ -1,4 +1,4 @@
-@media screen and (min-width: 120px)and (max-width: 520px) { 
+@media (min-width: 480px)and (max-width: 520px) { 
     .MQ{
         font-size: 3rem;
     }
